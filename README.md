@@ -5,7 +5,7 @@
 <img src="./misc/EditScreenshot.png" style="width: 400px; max-width: 600px; flex-grow: 1;" />
 </div>
 
-<center>
+<center align="center" style="text-align: center; align-items: center;">
 <h3>👋 Welcome to StableStudio, the open-source version of <a href="https://dreamstudio.ai" target="_blank">DreamStudio</a>!</h3>
 
 **🗺 Contents – [🚀 Quick Start](#quick-start) · [ℹ️ About](#about) · [🙋 FAQ](#faq) · [🧑‍💻 Contributing](#contributing)**
